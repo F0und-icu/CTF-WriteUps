@@ -1,0 +1,22 @@
+
+           AUTH_TYPE: empty
+     HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+        CONTENT_TYPE: empty
+         REMOTE_ADDR: 192.168.10.2
+      REQUEST_METHOD: GET
+      CONTENT_LENGTH: 0
+     SERVER_SOFTWARE: lighttpd/1.4.55
+     SERVER_PROTOCOL: HTTP/1.1
+        REMOTE_IDENT: empty
+         HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+        QUERY_STRING: name=AAA
+         SCRIPT_NAME: /cgi-bin/index.cgi
+         SERVER_NAME: 114.5.18.22
+         REMOTE_USER: empty
+         REMOTE_HOST: empty
+         SERVER_PORT: 80
+                name: AAA
+        HTTP_COOKIES: uuid=111111
+           PATH_INFO: empty
+     PATH_TRANSLATED: empty
+   GATEWAY_INTERFACE: CGI/1.1
